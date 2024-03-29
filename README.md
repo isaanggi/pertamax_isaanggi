@@ -4,3 +4,4 @@
 
 NIM    : 215411037
 Nama   : Isa Anggie Alfianto
+Universitas Teknologi Digital Indonesia
