@@ -49,7 +49,7 @@ class MyAppState extends ChangeNotifier {
     pair = pair ?? current;
     if (favorites.contains(pair)) {
       // ↓ Menghilangkan tanda favorite kata
-      favorites.remove([pair]);
+      favorites.remove(pair);
     } else {
       // ↓ Memuncul tanda favorite kata
       favorites.add(pair);
